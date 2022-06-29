@@ -3,8 +3,8 @@
 # basic building rules
 #
 MALIBRAIRIE_VERSION = 1.1
-MALIBRAIRIE_SOURCE = maLibrairie.tar.gz
-MALIBRAIRIE_SITE = https://github.com/hmz-rhl/$(MALIBRAIRIE_SOURCE)
+MALIBRAIRIE_SOURCE = main.tar.gz
+MALIBRAIRIE_SITE = https://github.com/hmz-rhl/maLibrairie/archive/refs/heads/main.tar.gz
 
 MALIBRAIRIE_INSTALL_STAGING = YES
 
